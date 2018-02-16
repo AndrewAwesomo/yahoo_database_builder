@@ -2,7 +2,7 @@ Creates a database of daily adjusted prices from Yahoo finance from a batch list
 
 This script requires the yqd.py module by c0redumb from https://github.com/c0redumb/yahoo_quote_download
 
-This module is included and should be in the same directory as the .py file (i.e. a_01_BuildStockDatabase.py) that imports it.
+The yqd.py module is included in this repository because it is stable and needs to be located in the same directory as the .py file (i.e. a_01_BuildStockDatabase.py) that imports it.
 
 Output is a new sqlite3 database with a table for each ticker, formatted with an underscore before the ticker symbol ex: Apple, ticker AAPL will have a table called ‘_AAPL’
 
