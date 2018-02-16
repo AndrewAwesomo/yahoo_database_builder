@@ -1,0 +1,12 @@
+/.idea
+/__pycache__
+/output
+BetaFactors.db
+FactorBetas.db
+factors.csv
+report.txt
+RiskFactors.db
+russell3000.db
+a_02_automateFFFactors.py
+a_03_CalculateBetas.py
+a_04_CalculatePortfolios.py
