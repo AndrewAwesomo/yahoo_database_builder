@@ -27,7 +27,7 @@ def updateDB(allTickers):
     t2=time.clock()
     total_time_s = str(t2-t1)
     total_time_h = str((t2-t1)/3600)
-    report = open('report.txt', 'w')
+    report = open('report.txt', 'wt')
     report.write('\n'.join(bad_tickers))
     report.write('\n total time %s seconds' %(total_time_s))
     report.write('\n or %s hours' %(total_time_h))
@@ -70,12 +70,13 @@ def parseRus():
     # can also be used with files that only have a ticker on each line
 
     tickers = []
-    readFile = open(TICKER_LIST, 'r').read()
+    readFile = open(TICKER_LIST, 'rt', encoding='utf8').read()
     splitFile = readFile.split('\n')
     for eachLine in splitFile:
         splitLine = eachLine.split(' ')
         if splitLine[-1].isupper():
-            tickers.append(splitLine[-1])
+            ticker = splitLine[-1].replace('.','-') # remove "." and replace with "-"
+            tickers.append(ticker)
     return tickers
 
 allTickers = parseRus()
