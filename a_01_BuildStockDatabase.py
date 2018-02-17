@@ -6,6 +6,7 @@ import yqd
 
 TICKER_LIST='russell3000.txt' # name of file containing ticker list
 DB_NAME='russell3000.db'  # name of database to create
+
 # note that this is using unix time stamp so earliest start date is Jan 1, 1970
 START_DATE='19700101'
 END_DATE='20300101'
@@ -39,6 +40,7 @@ def create_table(ticker, c):
         print('failed to download ticker data')
         return ticker_data
     else:
+        ticker = ticker.replace('-', '_') # If a ticker had a . in its name, it was changed when the file was read in to a - but need to change to '_' so it can be written as a table
         c.execute('CREATE TABLE IF NOT EXISTS %s(date TEXT PRIMARY KEY, adj_close FLOAT)' %('_' + ticker))
         for record in ticker_data:
             try:
@@ -56,7 +58,7 @@ def get_ticker_data(ticker):
     except:
         try:
             time.sleep(2) #delay 2 seconds and try again
-            ticker_data = yqd.load_yahoo_quote(ticker, '19700101', '20300101')
+            ticker_data = yqd.load_yahoo_quote(ticker, START_DATE, END_DATE)
             ticker_data.pop()  # get rid of blank string at end of data
             ticker_data = [row.split(',') for row in ticker_data]
             return ticker_data

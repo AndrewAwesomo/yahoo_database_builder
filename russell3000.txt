@@ -1,4 +1,4 @@
-1-800 FLOWERS COM FLWS
+ï»¿1-800 FLOWERS COM FLWS
 1ST SOURCE CORP SRCE
 21ST CENTURY FOX CL A FOXA
 21ST CENTURY FOX CL B FOX
@@ -98,7 +98,7 @@ ALCOA INC AA
 June 27, 2016 1
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 ALDER BIOPHARMACEUTICALS ALDR
 ALERE INC ALR
@@ -200,7 +200,7 @@ ANAVEX LIFE SCIENCES AVXL
 June 27, 2016 2
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 AMERESCO INC AMRC
 ANGIES LIST INC ANGI
@@ -302,7 +302,7 @@ AVALONBAY CMNTYS INC AVB
 June 27, 2016 3
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 ARMADA HOFFLER PPTYS INC AHH
 ARMOUR RESIDENTIAL REIT ARR
@@ -404,7 +404,7 @@ BLACKROCK INC BLK
 June 27, 2016 4
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 BARRACUDA NETWORKS INC CUDA
 BARRETT BUSINESS SERVICE BBSI
@@ -506,7 +506,7 @@ CAMDEN PROPERTY TRUST CPT
 June 27, 2016 5
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 BROOKS AUTOMATION INC BRKS
 BROWN & BROWN INC BRO
@@ -608,7 +608,7 @@ CHESAPEAKE UTILITIES CPK
 June 27, 2016 6
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 CBS CORPORATION CBS
 CDK GLOBAL INC CDK
@@ -710,7 +710,7 @@ CONAGRA FOODS INC CAG
 June 27, 2016 7
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 CMS ENERGY CORP CMS
 CNA FINANCIAL CORP CNA
@@ -812,7 +812,7 @@ DATALINK CORP DTLK
 June 27, 2016 8
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 CR BARD INC BCR
 CRA INTERNATIONAL INC CRAI
@@ -914,7 +914,7 @@ EAST WEST BANCORP INC EWBC
 June 27, 2016 9
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 DISCOVERY COMM CL A DISCA
 DISCOVERY COMM CL C DISCK
@@ -1016,7 +1016,7 @@ ESSENT GROUP LTD ESNT
 June 27, 2016 10
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 ENDURANCE INTERNATIONAL EIGI
 ENDURANCE SPECIALTY HLDG ENH
@@ -1118,7 +1118,7 @@ FIRST INTERNET BANCORP INBK
 June 27, 2016 11
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 FARO TECHNOLOGIES INC FARO
 FASTENAL CO FAST
@@ -1220,7 +1220,7 @@ GENERAL MILLS INC GIS
 June 27, 2016 12
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 FORWARD AIR CORP FWRD
 FOSSIL GROUP INC FOSL
@@ -1322,7 +1322,7 @@ HALYARD HEALTH INC HYH
 June 27, 2016 13
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 GOODYEAR TIRE & RUBBER GT
 GOPRO INC GPRO
@@ -1424,7 +1424,7 @@ HOVNANIAN ENTERPRISES HOV
 June 27, 2016 14
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 HEMISPHERE MEDIA GROUP HMTV
 HENNESSY ADVISORS INC HNNA
@@ -1526,7 +1526,7 @@ INTERNATIONAL SPEEDWAY ISCA
 June 27, 2016 15
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 IND CONTRACT DRILLING ICD
 INDEPENDENCE HOLDING CO IHC
@@ -1628,7 +1628,7 @@ KITE PHARMA INC KITE
 June 27, 2016 16
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 JAKKS PACIFIC INC JAKK
 JAMBA INC JMBA
@@ -1730,7 +1730,7 @@ LIONS GATE ENTMNT CORP LGF
 June 27, 2016 17
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 LDR HOLDING CORPORATION LDRH
 LEAR CORP LEA
@@ -1832,7 +1832,7 @@ MDU RESOURCES GROUP INC MDU
 June 27, 2016 18
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 MANITOWOC FOODSERVICE MFS
 MANNING & NAPIER INC MN
@@ -1934,7 +1934,7 @@ MUELLER WTR PRODS INC MWA
 June 27, 2016 19
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 MIDDLEBURG FINANCIAL MBRG
 MIDDLEBY CORP MIDD
@@ -2036,7 +2036,7 @@ NISOURCE INC NI
 June 27, 2016 20
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 NAVIOS MARITIME ACQUIS NNA
 NAVISTAR INTL CORP NAV
@@ -2138,7 +2138,7 @@ ORTHOFIX INTL NV OFIX
 June 27, 2016 21
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 OCEANEERING INTL INC OII
 OCEANFIRST FINANCIAL OCFC
@@ -2240,7 +2240,7 @@ PHYSICIANS REALTY TRUST DOC
 June 27, 2016 22
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 PATRICK INDS INC PATK
 PATRIOT NATIONAL INC PN
@@ -2342,7 +2342,7 @@ QUALITY SYSTEMS INC QSII
 June 27, 2016 23
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 PREMIER FINL BANCORP INC PFBI
 PREMIER INC PINC
@@ -2444,7 +2444,7 @@ ROLLINS INC ROL
 June 27, 2016 24
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 REGENERON PHARMACEUTICAL REGN
 REGENXBIO INC RGNX
@@ -2546,7 +2546,7 @@ SHERWIN WILLIAMS CO SHW
 June 27, 2016 25
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 SCANA CORP SCG
 SCANSOURCE INC SCSC
@@ -2648,7 +2648,7 @@ STARZ STRZA
 June 27, 2016 26
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 SOUTH JERSEY INDUSTRIES SJI
 SOUTH STATE CORPORATION SSB
@@ -2750,7 +2750,7 @@ TELEDYNE TECHNOLOGIES TDY
 June 27, 2016 27
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 SURGERY PARTNERS INC SGRY
 SURGICAL CARE AFFILIATES SCAI
@@ -2852,7 +2852,7 @@ TRIUMPH BANCORP INC TBK
 June 27, 2016 28
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 TIFFANY & CO TIF
 TILE SHOP HLDGS INC TTS
@@ -2954,7 +2954,7 @@ VALSPAR CORP VAL
 June 27, 2016 29
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 UNIQUE FABRICATING INC UFAB
 UNISYS CORP UIS
@@ -3056,7 +3056,7 @@ WESCO AIRCRAFT HLDGS INC WAIR
 June 27, 2016 30
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 VITAE PHARMACEUTICALS VTAE
 VITAL THERAPIES INC VTL
@@ -3157,7 +3157,7 @@ ZYNGA INC ZNGA
 June 27, 2016 31
 Membership list
 Russell US Indexes
-Russell 3000® Index 
+Russell 3000Â® Index 
 Company Ticker
 WORKDAY INC WDAY
 WORKHORSE GROUP INC WKHS
